@@ -14,4 +14,4 @@
 
 我会使用的操作系统: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-[View it in English](https://github.com/BovineBeta/BovineBeta/readme-eng.md) *translate by Google Translate*
+[View it in English](https://github.com/BovineBeta/BovineBeta/blob/main/readme-en.md) *translate by Google Translate*

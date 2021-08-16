@@ -4,9 +4,9 @@
 
 写代码是我的课余兴趣, 除了小学在信息课上学了点Stratch以及在初中学习了Visual Basic的"标准EXE", 没有专门的去学习任何一种编程语言.
 
-我目前正感兴趣于前端
+我目前正感兴趣于前端.
 
-在项目上使用过的语言:
+我在项目上使用过的语言:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BovineBeta&show_icons=true&theme=dark)
 

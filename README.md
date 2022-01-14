@@ -4,7 +4,7 @@
 
 写代码是我的课余兴趣, 除了小学在信息课上学了点Stratch以及在初中学习了Visual Basic的"标准EXE", 没有专门的去接受任何一种编程语言的教育.
 
-我目前正感兴趣于前端.
+我目前正感兴趣于静态网页.
 
 我在项目上使用过的语言:
 
@@ -14,4 +14,4 @@
 
 我会使用的操作系统: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-[View it in English](https://github.com/BovineBeta/BovineBeta/blob/main/readme-en.md) *translated by myself and Google Translate.*
+[View it in English](https://github.com/BovineBeta/BovineBeta/blob/main/readme-en.md) *Translated by myself.*

@@ -1,10 +1,10 @@
 [![BovineBeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=BovineBeta&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Hello, I'm FBIK. I'm a second-year junior high student. Welcome to my ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) Homepage. [This is my personal station](https://fbik.top).
+Hello, I'm FBIK. I'm a third-grade junior high student. Welcome to my ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) Homepage. [This is my personal station](https://fbik.top).
 
 Writing code is my after-school interest, except that I learned a little Stratch in the information class in elementary school and the "Standard EXE" of Visual Basic in junior high school.
 
-I'm currently interested in the front-end.
+I'm currently interested in static web page.
 
 Languages I have used on the project:
 

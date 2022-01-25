@@ -2,7 +2,7 @@
 
 Hello, I'm FBIK. I'm a third-grade junior high student. Welcome to my ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) Homepage. [This is my personal station](https://fbik.top).
 
-Writing code is my after-school interest, except that I learned a little Stratch in the information class in elementary school and the "Standard EXE" of Visual Basic in junior high school.
+Writing code is my after-school interest, except that I learned a little Scratch in the information class in elementary school and the "Standard EXE" of Visual Basic in junior high school.
 
 I'm currently interested in static web page.
 

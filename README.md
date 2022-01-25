@@ -2,7 +2,7 @@
 
 您好，我是 FBIK. 是一名初三学生.欢迎来到我的![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)主页. [这是我的个人主页](https://fbik.top).
 
-写代码是我的课余兴趣, 除了小学在信息课上学了点Stratch以及在初中学习了Visual Basic的"标准EXE", 没有专门的去接受任何一种编程语言的教育.
+写代码是我的课余兴趣, 除了小学在信息课上学了点Scratch以及在初中学习了Visual Basic的"标准EXE", 没有专门的去接受任何一种编程语言的教育.
 
 我目前正感兴趣于静态网页.
 
